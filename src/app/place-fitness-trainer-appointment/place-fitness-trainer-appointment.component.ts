@@ -41,5 +41,6 @@ export class PlaceFitnessTrainerAppointmentComponent implements OnInit {
   }
 
   onSubmit() {
+  }
     
 }
